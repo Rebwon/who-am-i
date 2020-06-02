@@ -9,9 +9,15 @@
   - 2019-12 ing~
 
 - TDD
-  - [클린 코더스](https://www.youtube.com/user/codetemplate/videos) 강의 듣는 중
+  - [클린 코더스](https://www.youtube.com/user/codetemplate/videos) 완강
   - [테스트 주도 개발 실천법과 도구](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B3818551654) 완독
   - [토비의봄 xUnit](https://www.youtube.com/watch?v=tdKFZcZSJmg&t=1544s) 개발 영상 해볼 예정
+  - [OCP 리팩토링 케이스](https://github.com/msbaek/practical-refactoring-cases) 
+  - [문자열 관련 팩토링 케이스](https://github.com/msbaek/refactoring-cases)
+  - [간단한 ToDo 스프링 애플리케이션](https://github.com/msbaek/todo)
+  - [호텔 리뷰 관련 복잡한 애플리케이션](https://github.com/msbaek/hotel-review)
+  - [문자열 서칭 케이스](https://github.com/msbaek/searcher-tdd)
+  - [상속 의존 -> 위임 리팩토링 케이스](https://github.com/msbaek/breaking-inheritance-dependency)
   - ATDD, BDD에 관심이 있음
 
 - OOP, Pattern
