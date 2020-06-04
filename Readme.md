@@ -8,16 +8,17 @@
 - 일일 커밋 진행 중
   - 2019-12 ing~
 
-- TDD
+- TDD, Refactoring
   - [클린 코더스](https://www.youtube.com/user/codetemplate/videos) 완강
   - [테스트 주도 개발 실천법과 도구](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B3818551654) 완독
   - [토비의봄 xUnit](https://www.youtube.com/watch?v=tdKFZcZSJmg&t=1544s) 개발 영상 해볼 예정
-  - [OCP 리팩토링 케이스](https://github.com/msbaek/practical-refactoring-cases) 
-  - [문자열 관련 팩토링 케이스](https://github.com/msbaek/refactoring-cases)
+  - [OCP 리팩토링 케이스](https://github.com/msbaek/practical-refactoring-cases) 해봄
+  - [문자열 관련 팩토링 케이스](https://github.com/msbaek/refactoring-cases) 
   - [간단한 ToDo 스프링 애플리케이션](https://github.com/msbaek/todo)
   - [호텔 리뷰 관련 복잡한 애플리케이션](https://github.com/msbaek/hotel-review)
   - [문자열 서칭 케이스](https://github.com/msbaek/searcher-tdd)
   - [상속 의존 -> 위임 리팩토링 케이스](https://github.com/msbaek/breaking-inheritance-dependency)
+  - [리팩토링](https://www.hanbit.co.kr/store/books/look.php?p_code=B6952616555) 비디오 게임 부분 해봄(물론 책도 소지중)
   - ATDD, BDD에 관심이 있음
 
 - OOP, Pattern
@@ -30,9 +31,6 @@
   - [오브젝트](http://www.yes24.com/Product/Goods/74219491) 소지중 개인적으로 공부할 예정
   - [엔터프라이즈 애플리케이션 아키텍처 패턴](http://www.yes24.com/Product/Goods/22384677) 읽는 중
   - 조영호 블로그 [도메인 주도 설계 연재](http://aeternum.egloos.com/category/Domain-Driven%20Design/page/3) 글 완독
-  
-- Refactoring
-  - [리팩토링](https://www.hanbit.co.kr/store/books/look.php?p_code=B6952616555) 비디오 게임 부분 해봄(물론 책도 소지중)
   
 - Network
   - [그림으로 배우는 HTTP & Network Basic](http://www.yes24.com/Product/Goods/15894097) 완독
