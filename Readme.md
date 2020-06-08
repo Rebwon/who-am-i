@@ -16,8 +16,6 @@
   - [문자열 관련 팩토링 케이스](https://github.com/msbaek/refactoring-cases) 해봄
   - [ATDD RestAPI Sample](https://github.com/msbaek/atdd-example) 해봄
   - [문자열 서칭 케이스](https://github.com/msbaek/searcher-tdd)
-  - [간단한 ToDo 스프링 애플리케이션](https://github.com/msbaek/todo)
-  - [호텔 리뷰 관련 복잡한 애플리케이션](https://github.com/msbaek/hotel-review)
   - [상속 의존 -> 위임 리팩토링 케이스](https://github.com/msbaek/breaking-inheritance-dependency)
   - [리팩토링](https://www.hanbit.co.kr/store/books/look.php?p_code=B6952616555) 비디오 게임 부분 해봄(물론 책도 소지중)
   - ATDD, BDD에 관심이 있음
